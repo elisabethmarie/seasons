@@ -1,3 +1,7 @@
+# Seasons
+From the course: "Modern React with Redux [2019 Update]" https://www.udemy.com/react-redux/
+
+_____
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
